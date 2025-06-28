@@ -26,3 +26,5 @@
 <a href="mailto:enzo2006lima@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
 <a href="https://www.linkedin.com/in/enzo-lima-b57418369/?trk=public-profile-join-page"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </div>
+
+ [Snake animation](https://github.com/Enzo-FLima/Enzo-FLima/blob/output/github-contribution-grid-snake.svg
