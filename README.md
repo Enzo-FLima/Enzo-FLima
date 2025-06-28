@@ -2,7 +2,7 @@
 
 - 🔭 Trabalho em uma coperativa
 - 🌱 Estou estudando inglês e liguagens de programação
-- 🤔 Procurando por ideia para novos projetos
+- 🤔 Procurando por ideias para novos projetos
 - 📫 Contate-me no e-mail: enzo2006lima@gmail.com
 - 📖 Cursando Engenharia de Software
 
