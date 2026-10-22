@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 70" width="100%" height="100%">
+  <defs>
+    <linearGradient id="fGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f0ff" stop-opacity="0" />
+      <stop offset="20%" stop-color="#00f0ff" stop-opacity="0.8" />
+      <stop offset="50%" stop-color="#a855f7" stop-opacity="0.9" />
+      <stop offset="80%" stop-color="#10b981" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#10b981" stop-opacity="0" />
+    </linearGradient>
+    <style>
+      .mono { font-family: 'JetBrains Mono', 'Fira Code', 'Consolas', 'Courier New', monospace; }
+    </style>
+  </defs>
+  <rect x="0" y="0" width="1000" height="70" rx="10" fill="#060911" />
+  <rect x="80" y="12" width="840" height="2" fill="url(#fGrad)" />
+  <text x="500" y="44" text-anchor="middle" fill="#64748b" font-size="12" letter-spacing="1.5" class="mono">
+    [ EOF // ENZO-FLIMA ]  •  CRAFTED WITH PRECISION &amp; CLEAN CODE  •  STATUS: 200 OK
+  </text>
+</svg>
