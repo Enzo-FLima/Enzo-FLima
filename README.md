@@ -26,7 +26,7 @@
 
 ---
 
-## 👨‍💻 `~/about-me` — Apresentação Pessoal
+## 👨‍💻 `about-me` — Apresentação Pessoal
 
 ```yaml
 desenvolvedor:
