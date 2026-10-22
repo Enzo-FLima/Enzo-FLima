@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- CABEÇALHO TECNOLÓGICO -->
-  <img src="assets/header-banner.svg" alt="Enzo Ferreira de Lima — Engenharia de Software" width="100%" />
+  <img src="assets/header-banner.svg" alt="Enzo Lima — Engenharia de Software" width="100%" />
 
   <br />
 
@@ -16,17 +16,15 @@
 
 ---
 
-## ⚡ `~/bit-window` — Terminal & Identidade Visual (16-Bit)
+## ⚡ `bit-window` — Terminal & Identidade Visual (16-Bit)
 
 <div align="center">
   <img src="assets/bit-window.svg" alt="Janela de Bit — Pixel Art 16-Bit de Enzo Lima e Terminal de Telemetria" width="100%" />
 </div>
 
-> 💡 *Renderização em **Pixel Art 16-bits** gerada a partir da foto real de perfil, executando em uma interface inspirada em terminais Linux com montagem progressiva de pixels (`assets/bit-window.svg` / `assets/avatar-pixel.png`).*
-
 ---
 
-## 👨‍💻 `~/about-me` — Apresentação Pessoal
+## 👨‍💻 `about-me` — Apresentação Pessoal
 
 ```yaml
 desenvolvedor:
@@ -64,7 +62,7 @@ Minha trajetória acadêmica e meus estudos práticos são voltados ao domínio 
 
 ---
 
-## 🛠️ `~/tech-stack` — Tecnologias & Ferramentas
+## 🛠️ `tech-stack` — Tecnologias & Ferramentas
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,bootstrap,git,github,docker,maven,vscode,idea,linux,windows&theme=dark" alt="Tech Stack Icons" />
@@ -136,7 +134,7 @@ Minha trajetória acadêmica e meus estudos práticos são voltados ao domínio 
 
 ---
 
-## 🚀 `~/featured-projects` — Projetos em Destaque
+## 🚀 `featured-projects` — Projetos em Destaque
 
 ```text
 ┌──────────────────────────────────────────────────────────────────────────────────────────┐
@@ -151,7 +149,7 @@ Minha trajetória acadêmica e meus estudos práticos são voltados ao domínio 
 
 <!--
 ==========================================================================================
-TEMPLATE PRONTO PARA ADICIONAR NOVOS PROJETOS FUTURAMENTE (Basta descomentar e preencher):
+TEMPLATE PRONTO PARA ADICIONAR NOVOS PROJETOS(Basta descomentar e preencher):
 ==========================================================================================
 
 <table>
@@ -197,7 +195,7 @@ TEMPLATE PRONTO PARA ADICIONAR NOVOS PROJETOS FUTURAMENTE (Basta descomentar e p
 
 ---
 
-## 🎯 `~/career-profile` — Formação, Competências & Objetivos
+## 🎯 `career-profile` — Formação, Competências & Objetivos
 
 <table>
   <tr>
@@ -222,7 +220,7 @@ TEMPLATE PRONTO PARA ADICIONAR NOVOS PROJETOS FUTURAMENTE (Basta descomentar e p
 
 ---
 
-## 📊 `~/telemetry` — Estatísticas do GitHub
+## 📊 `telemetry` — Estatísticas do GitHub
 
 <div align="center">
   <a href="https://github.com/Enzo-FLima">
@@ -241,7 +239,7 @@ TEMPLATE PRONTO PARA ADICIONAR NOVOS PROJETOS FUTURAMENTE (Basta descomentar e p
 
 ---
 
-## 📬 `~/connect` — Contatos & Oportunidades
+## 📬 `connect` — Contatos & Oportunidades
 
 <div align="center">
 
@@ -269,71 +267,9 @@ TEMPLATE PRONTO PARA ADICIONAR NOVOS PROJETOS FUTURAMENTE (Basta descomentar e p
 
 </div>
 
-<table width="100%">
-  <thead>
-    <tr>
-      <th width="28%" align="left">Categoria</th>
-      <th width="72%" align="left">Tecnologias & Ferramentas Práticas</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>💻 Linguagens de Programação</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-      </td>
-    </tr>
-    <tr>
-      <td><b>🌐 Frontend & Web</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-      </td>
-    </tr>
-    <tr>
-      <td><b>⚙️ Backend, Sistemas & Build</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/POO_%26_Estrutura_de_Dados-0f172a?style=for-the-badge&logo=codeforces&logoColor=00f0ff" alt="POO e Estrutura de Dados" />
-        <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSockets" />
-        <img src="https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />
-      </td>
-    </tr>
-    <tr>
-      <td><b>🔧 Controle de Versão & DevOps</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-      </td>
-    </tr>
-    <tr>
-      <td><b>🖥️ IDEs & Sistemas Operacionais</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-        <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
-        <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-      </td>
-    </tr>
-    <tr>
-      <td><b>🌱 Em Estudo & Evolução</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/Engenharia_de_Requisitos-1e1b4b?style=for-the-badge&logo=readthedocs&logoColor=a855f7" alt="Engenharia de Requisitos" />
-        <img src="https://img.shields.io/badge/Banco_de_Dados-064e3b?style=for-the-badge&logo=databricks&logoColor=10b981" alt="Banco de Dados" />
-        <img src="https://img.shields.io/badge/Ingl%C3%AAs_T%C3%A9cnico-0c4a6e?style=for-the-badge&logo=googletranslate&logoColor=00f0ff" alt="Inglês Técnico" />
-      </td>
-    </tr>
-  </tbody>
-</table>
-
 ---
 
-## 🚀 `~/featured-projects` — Projetos em Destaque
+## 🚀 `featured-projects` — Projetos em Destaque
 
 ```text
 ┌──────────────────────────────────────────────────────────────────────────────────────────┐
@@ -394,7 +330,7 @@ TEMPLATE PRONTO PARA ADICIONAR NOVOS PROJETOS FUTURAMENTE (Basta descomentar e p
 
 ---
 
-## 🎯 `~/career-profile` — Formação, Competências & Objetivos
+## 🎯 `career-profile` — Formação, Competências & Objetivos
 
 <table>
   <tr>
@@ -419,7 +355,7 @@ TEMPLATE PRONTO PARA ADICIONAR NOVOS PROJETOS FUTURAMENTE (Basta descomentar e p
 
 ---
 
-## 📊 `~/telemetry` — Estatísticas do GitHub
+## 📊 `telemetry` — Estatísticas do GitHub
 
 <div align="center">
   <a href="https://github.com/Enzo-FLima">
