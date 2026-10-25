@@ -16,7 +16,7 @@
 
 ---
 
-## ⚡ `~/bit-window` — Terminal & Identidade Visual (16-Bit)
+## ⚡ `bit-window` — Terminal & Identidade Visual (16-Bit)
 
 <div align="center">
   <img src="assets/bit-window.svg" alt="Janela de Bit — Pixel Art 16-Bit de Enzo Lima e Terminal de Telemetria" width="100%" />
@@ -26,7 +26,7 @@
 
 ---
 
-## 👨‍💻 `~/about-me` — Apresentação Pessoal
+## 👨‍💻 `about-me` — Apresentação Pessoal
 
 ```yaml
 desenvolvedor:
@@ -64,7 +64,7 @@ Minha trajetória acadêmica e meus estudos práticos são voltados ao domínio 
 
 ---
 
-## 🛠️ `~/tech-stack` — Tecnologias & Ferramentas
+## 🛠️ `tech-stack` — Tecnologias & Ferramentas
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,java,js,html,css,bootstrap,git,github,vscode,idea,windows&theme=dark" alt="Tech Stack Icons" />
