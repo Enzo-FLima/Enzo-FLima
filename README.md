@@ -47,7 +47,7 @@ desenvolvedor:
 
 Olá! Sou o **Enzo Lima**, estudante de **Engenharia de Software** e entusiasta da construção de sistemas sólidos e bem arquitetados. Atualmente trabalho em uma **cooperativa**, experiência que fortalece diariamente minha visão prática sobre processos organizacionais, colaboração em equipe e como a tecnologia pode otimizar fluxos de trabalho reais.
 
-Minha trajetória acadêmica e meus estudos práticos são voltados ao domínio dos fundamentos da computação — desde programação estruturada em **C** até o desenvolvimento orientado a objetos com **Java**, bancos de dados (**SQL**) e tecnologias para a **Web (HTML5, CSS3 e JavaScript)**. Busco oportunidades como **Estagiário ou Desenvolvedor Júnior** onde eu possa contribuir com dedicação, evoluir tecnicamente ao lado de profissionais experientes e entregar código de qualidade.
+Minha trajetória acadêmica e meus estudos práticos são voltados ao domínio dos fundamentos da computação — desde linguagens de base como **C** até o desenvolvimento orientado a objetos com **Java** e tecnologias para a **Web (HTML5, CSS3 e JavaScript)**. Busco oportunidades como **Estagiário ou Desenvolvedor Júnior** onde eu possa contribuir com dedicação, evoluir tecnicamente ao lado de profissionais experientes e entregar código de qualidade.
 
 <details>
   <summary>🌐 <b>Read in English (For International Recruiters)</b></summary>
@@ -67,7 +67,7 @@ Minha trajetória acadêmica e meus estudos práticos são voltados ao domínio 
 ## 🛠️ `~/tech-stack` — Tecnologias & Ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,js,html,css,bootstrap,git,github,maven,vscode,idea,windows&theme=dark" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=c,java,js,html,css,bootstrap,git,github,vscode,idea,windows&theme=dark" alt="Tech Stack Icons" />
 </div>
 
 <br />
@@ -102,7 +102,6 @@ Minha trajetória acadêmica e meus estudos práticos são voltados ao domínio 
       <td>
         <img src="https://img.shields.io/badge/POO_%26_Estrutura_de_Dados-0f172a?style=for-the-badge&logo=codeforces&logoColor=00f0ff" alt="POO e Estrutura de Dados" />
         <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSockets" />
-        <img src="https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />
       </td>
     </tr>
     <tr>
@@ -133,7 +132,7 @@ Minha trajetória acadêmica e meus estudos práticos são voltados ao domínio 
 
 ---
 
-## 🚀 `~/featured-projects` — Projetos em Destaque
+## 🚀 `featured-projects` — Projetos em Destaque
 
 ```text
 ┌──────────────────────────────────────────────────────────────────────────────────────────┐
@@ -148,7 +147,7 @@ Minha trajetória acadêmica e meus estudos práticos são voltados ao domínio 
 
 <!--
 ==========================================================================================
-TEMPLATE PRONTO PARA ADICIONAR NOVOS PROJETOS FUTURAMENTE (Basta descomentar e preencher):
+TEMPLATE PRONTO PARA ADICIONAR NOVOS PROJETOS(Basta descomentar e preencher):
 ==========================================================================================
 
 <table>
@@ -194,7 +193,7 @@ TEMPLATE PRONTO PARA ADICIONAR NOVOS PROJETOS FUTURAMENTE (Basta descomentar e p
 
 ---
 
-## 🎯 `~/career-profile` — Formação, Competências & Objetivos
+## 🎯 `career-profile` — Formação, Competências & Objetivos
 
 <table>
   <tr>
@@ -219,7 +218,7 @@ TEMPLATE PRONTO PARA ADICIONAR NOVOS PROJETOS FUTURAMENTE (Basta descomentar e p
 
 ---
 
-## 📊 `~/telemetry` — Estatísticas do GitHub
+## 📊 `telemetry` — Estatísticas do GitHub
 
 <div align="center">
   <a href="https://github.com/Enzo-FLima">
@@ -238,7 +237,7 @@ TEMPLATE PRONTO PARA ADICIONAR NOVOS PROJETOS FUTURAMENTE (Basta descomentar e p
 
 ---
 
-## 📬 `~/connect` — Contatos & Oportunidades
+## 📬 `connect` — Contatos & Oportunidades
 
 <div align="center">
 
