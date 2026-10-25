@@ -45,7 +45,7 @@ desenvolvedor:
 
 Olá! Sou o **Enzo Lima**, estudante de **Engenharia de Software** e entusiasta da construção de sistemas sólidos e bem arquitetados. Atualmente trabalho em uma **cooperativa**, experiência que fortalece diariamente minha visão prática sobre processos organizacionais, colaboração em equipe e como a tecnologia pode otimizar fluxos de trabalho reais.
 
-Minha trajetória acadêmica e meus estudos práticos são voltados ao domínio dos fundamentos da computação — desde linguagens de base como **C** e **C++** até o desenvolvimento orientado a objetos com **Java** e tecnologias para a **Web (HTML5, CSS3 e JavaScript)**. Busco oportunidades como **Estagiário ou Desenvolvedor Júnior** onde eu possa contribuir com dedicação, evoluir tecnicamente ao lado de profissionais experientes e entregar código de qualidade.
+Minha trajetória acadêmica e meus estudos práticos são voltados ao domínio dos fundamentos da computação — desde linguagens de base como **C** até o desenvolvimento orientado a objetos com **Java** e tecnologias para a **Web (HTML5, CSS3 e JavaScript)**. Busco oportunidades como **Estagiário ou Desenvolvedor Júnior** onde eu possa contribuir com dedicação, evoluir tecnicamente ao lado de profissionais experientes e entregar código de qualidade.
 
 <details>
   <summary>🌐 <b>Read in English (For International Recruiters)</b></summary>
@@ -65,7 +65,7 @@ Minha trajetória acadêmica e meus estudos práticos são voltados ao domínio 
 ## 🛠️ `tech-stack` — Tecnologias & Ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,bootstrap,git,github,vscode,idea,windows&theme=dark" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=c,java,js,html,css,bootstrap,git,github,vscode,idea,windows&theme=dark" alt="Tech Stack Icons" />
 </div>
 
 <br />
@@ -82,7 +82,6 @@ Minha trajetória acadêmica e meus estudos práticos são voltados ao domínio 
       <td><b>💻 Linguagens de Programação</b></td>
       <td>
         <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
         <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
         <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
