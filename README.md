@@ -65,7 +65,7 @@ Minha trajetória acadêmica e meus estudos práticos são voltados ao domínio 
 ## 🛠️ `tech-stack` — Tecnologias & Ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,bootstrap,git,github,vscode,idea,linux,windows&theme=dark" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,bootstrap,git,github,vscode,idea,windows&theme=dark" alt="Tech Stack Icons" />
 </div>
 
 <br />
@@ -101,7 +101,6 @@ Minha trajetória acadêmica e meus estudos práticos são voltados ao domínio 
       <td>
         <img src="https://img.shields.io/badge/POO_%26_Estrutura_de_Dados-0f172a?style=for-the-badge&logo=codeforces&logoColor=00f0ff" alt="POO e Estrutura de Dados" />
         <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSockets" />
-        <img src="https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />
       </td>
     </tr>
     <tr>
@@ -109,7 +108,6 @@ Minha trajetória acadêmica e meus estudos práticos são voltados ao domínio 
       <td>
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
       </td>
     </tr>
     <tr>
@@ -118,7 +116,6 @@ Minha trajetória acadêmica e meus estudos práticos são voltados ao domínio 
         <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
         <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
         <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
       </td>
     </tr>
     <tr>
