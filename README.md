@@ -65,7 +65,7 @@ Minha trajetória acadêmica e meus estudos práticos são voltados ao domínio 
 ## 🛠️ `tech-stack` — Tecnologias & Ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,bootstrap,git,github,docker,maven,vscode,idea,linux,windows&theme=dark" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,bootstrap,git,github,vscode,idea,linux,windows&theme=dark" alt="Tech Stack Icons" />
 </div>
 
 <br />
